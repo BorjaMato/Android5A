@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">U5_MenuCamara-A17borjama</string>
+    <string name="lanzar">Lanzar cámara</string>
+    <string name="foto">Sacar Foto</string>
+    <string name="salir">Salir</string>
+
+</resources>
